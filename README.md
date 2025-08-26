@@ -51,4 +51,4 @@ Trend Analysis: Tracks growth in shows and movies over the years.
 Decision Support: Assists in aligning acquisition and marketing strategies with audience demand.
 
 #Screenshot/Demo
-Example:
+Example:https://github.com/jadhavaditya684/Amazonprime-analysis/commit/e323205c6a4e87e8ffe693f1a5c14f5f6069e64d
